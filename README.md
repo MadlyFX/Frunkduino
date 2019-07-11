@@ -12,3 +12,5 @@ A full sized USB-A connector positioned to plug directly into the Index
 
 
 All created in the free version of Diptrace. 
+
+![Image of Frunkduino](https://github.com/MadlyFX/Frunkduino/blob/master/Photo.jpg)
