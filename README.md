@@ -10,6 +10,7 @@ The heart of this board is an Adafruit Feather M4, but the additional space offe
 * Second row of header breakouts, so you can solder to pins even after headers are installed
 * A full sized USB-A connector positioned to plug directly into the Index
 
+The MCU is an ATSAMD51 running at 120MHz. I figured a high-end headset needs a high-end MCU :)
 
 All created in the free version of Diptrace. A new Arduino board definition will be required to use the MOSFET, which does not exist as of yet.
 
